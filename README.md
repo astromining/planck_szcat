@@ -1,2 +1,2 @@
-# planck_szcat
-Planck U-Net and y-map SZ catalogs
+# Planck U-Net and y-map SZ catalogs
+Illustrations for the article.
